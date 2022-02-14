@@ -110,7 +110,7 @@ TODO: insert /img/evm/mars-build.png
 
 ### 创建部署脚本[#](https://wiki.findora.org/docs/dapp/waffle-mars#create-deploy-script)
 
-在这一步，你将创建一个部署脚本，将定义合同的部署方式。Mars提供了一个部署函数，你可以向其传递一些选项，如用于部署合同的账户私钥、要部署的网络等等。部署功能用于定义要部署的合约。Mars有一个合约功能，接受name、artifact和constructorArgs。
+在这一步，你将创建一个部署脚本，将定义合约的部署方式。Mars提供了一个部署函数，你可以向其传递一些选项，如用于部署合约的账户私钥、要部署的网络等等。部署功能用于定义要部署的合约。Mars有一个合约功能，接受name、artifact和constructorArgs。
 
 1.创建一个包含部署脚本的src目录，创建一个脚本来部署MyContract合约：
 
@@ -140,4 +140,4 @@ So far, you should have created a deployment script in deploy.ts to deploy the M
 
 `npm run deploy`
 
-恭喜你！你已经通过Waffle和Mars成功地在Findora Devnet上部署了合同!
+恭喜你！你已经通过Waffle和Mars成功地在Findora Devnet上部署了合约!
