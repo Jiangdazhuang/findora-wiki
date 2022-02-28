@@ -1,3 +1,7 @@
+---
+sidebar_position: 3
+---
+
 # 冷钱包 vs 热钱包
 ### 热钱包[#](https://wiki.findora.org/docs/general/hot_Vs_cold#hot-wallet)
 
