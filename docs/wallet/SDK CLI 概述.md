@@ -91,7 +91,7 @@ PKEY_LOCAL_FAUCET="XAsFsKosjY8J=XXXXXXXXXX";
 
 因此，在运行此命令之前，您需要创建一个`.env`文件,并将上述信息放入其中。在此之后，您将能够执行一个快速的,一行命令发送FRA到其他地址(为他们提供资金)。
 
-**2.** **"创建钱包" 命令**
+**3.** **"创建钱包" 命令**
 
 如果需要快速创建一个新的钱包，你可以使用' yarn cli createWallet `命令来创建一个新的钱包，以及获取它的助记词、地址、私钥和公钥。
 
@@ -139,7 +139,7 @@ output insect settle weather spray lava seven day rice swamp captain upgrade lay
 
 记得将这些内保保存起来，以备以后使用。
 
-**3.** **"恢复钱包" 命令**
+**4.** **"恢复钱包" 命令**
 
 要**恢复**之前创建的钱包(例如将其用作**交易发起者**,或检查其私钥)，运行` yarn restoreWallet——mnemonicString='XX XXXX `，并提供一个有效的记忆字符串。
 
