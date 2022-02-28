@@ -1,4 +1,8 @@
-# SDK CLI Overview
+---
+sidebar_position: 2
+---
+
+# SDK CLI 概述
 
 `Findora SDK` 包含一个CLI命令工具，它使开发人员能够使用单一的命令语法快速执行经常使用的操作。  
 
